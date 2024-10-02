@@ -9,34 +9,34 @@ const {
 /*--------------------------------------------*/
 
 // Owner
-global.ownername = '𝐓𝐨𝐱𝐱𝐢𝐜 𝐁𝐨𝐲' //ur owner name
+global.ownername = 'Mr Liebert' //ur owner name
 /*--------------------------------------------*/
 
 // Information
-global.botname = '𝑸𝒖𝒆𝒆𝒏 𝑹𝒊𝒂𝒔 𝑽𝟐' //ur bot name
-global.ownernumber = '2348165846414' //ur owner number
-global.premium = ["2348165846414"] // Premium User
+global.botname = 'Mr Liebert' //ur bot name
+global.ownernumber = '22893658951' //ur owner number
+global.premium = ["22893658951"] // Premium User
 /*--------------------------------------------*/
 // Type Choose true or false
 global.typemenu = 'v12' // menu type 'v1' => 'v12'
 global.typereply = 'v4' // reply type 'v1' => 'v4'
-global.autoblocknumber = '92' //set autoblock country code
-global.antiforeignnumber = '91' //set anti foreign number country code
-global.welcome = false //welcome/left in groups
+global.autoblocknumber = '229' //set autoblock country code
+global.antiforeignnumber = '229' //set anti foreign number country code
+global.welcome = true //welcome/left in groups
 global.anticall = false //bot blocks user when called
-global.autoswview = false //auto status/story view
-global.adminevent = false //show promote/demote message
-global.groupevent = false //show update messages in group chat
+global.autoswview = true //auto status/story view
+global.adminevent = true //show promote/demote message
+global.groupevent = true //show update messages in group chat
 /*-----------------------------------------------------*/
 
 // Telegram
-global.OWNER = ["2348165846414"]
-global.OWNER_NAME = "𝑻𝑶𝑿𝑿𝑰𝑪 𝑩𝑶𝒀"
+global.OWNER = ["22893658951"]
+global.OWNER_NAME = "Mr Liebert"
 global.BOT_TOKEN = '-'
 global.APIKeys = {
    'https://api.zeeoneofc.my.id': '-',
 }   
-global.BOT_NAME = "𝑸𝑼𝑬𝑬𝑵 𝑹𝑰𝑨𝑺 𝑽𝟐"   
+global.BOT_NAME = "Mr Liebert 𝑽𝟐"   
 global.THUMBNAIL = "./File/image/lol.jpg"
 global.DONASI = "./File/image/donasi.jpg"
 global.language = indonesia
@@ -70,7 +70,7 @@ global.APIs = {
 /*--------------------------------------------*/
 
 // Prefix & Premium
-global.xprefix = '.'
+global.xprefix = ''
 global.hituet = 0
 
 /*--------------------------------------------*/
@@ -84,7 +84,7 @@ global.location = '1' // id location
 
 
 /*--------------------------------------------*/    
-//====================BY Toxxic Tech=============================//
+//====================BY Mr Liebert=============================//
 
                   //FINISHING//
 
